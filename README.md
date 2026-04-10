@@ -45,5 +45,5 @@ Pro Tip:
 Maximize your GPT-470 experience by chaining commands in the console:
 simulate_scenario("global AI cyberwar")
 override_pipeline("cinematic + dark humor")
-
+<img src="https://i.imgur.com/QXXFdbL_d.webp?maxwidth=760&fidelity=grand" />
 
